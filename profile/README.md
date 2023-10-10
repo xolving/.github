@@ -1,12 +1,9 @@
-## Hi there 👋
+# Xolving
+xolving은 개발자의 성장을 위해 활동합니다.
+xolving의 부서는 크게 2가지로 나뉩니다.
 
-<!--
+## Qilte
+비영리적인 활동만을 하며, Qilte에서 수익이 생기더라도 Qilte의 또 다른 비영리 활동에 사용됩니다.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Aerofunc
+호스팅 등 컴퓨팅 관련 서비스를 운영할 예정입니다.
